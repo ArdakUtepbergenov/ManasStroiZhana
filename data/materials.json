@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "id": 1,
+      "name": "Термопанель фасадная ТП-100",
+      "category": "facade",
+      "price": "4500",
+      "unit": "м²",
+      "description": "Высококачественная фасадная термопанель с клинкерной плиткой. Толщина утеплителя 100 мм, класс горючести Г1.",
+      "image": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Термопанель фасадная ТП-150",
+      "category": "facade",
+      "price": "5200",
+      "unit": "м²",
+      "description": "Усиленная термопанель с увеличенным слоем утеплителя 150 мм. Идеальна для холодного климата.",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Термопанель под кирпич",
+      "category": "facade",
+      "price": "4800",
+      "unit": "м²",
+      "description": "Фасадная панель с текстурой кирпичной кладки. Имитация натурального кирпича, легкий монтаж.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Брусчатка гранитная 10x10",
+      "category": "paving",
+      "price": "3200",
+      "unit": "м²",
+      "description": "Натуральная гранитная брусчатка 10x10x8 см. Высокая прочность, морозостойкость до -50°C.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "Брусчатка вибропрессованная",
+      "category": "paving",
+      "price": "1800",
+      "unit": "м²",
+      "description": "Вибропрессованная брусчатка собственного производства. Размер 20x10x6 см, цвет на выбор.",
+      "image": "https://images.unsplash.com/photo-1558618047-f4e60cfd1e7d?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Брусчатка «Катушка»",
+      "category": "paving",
+      "price": "2100",
+      "unit": "м²",
+      "description": "Фигурная брусчатка форма «Катушка». Популярный дизайн для пешеходных зон и площадок.",
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 7,
+      "name": "Травертин натуральный",
+      "category": "travertine",
+      "price": "6500",
+      "unit": "м²",
+      "description": "Натуральный травертин для облицовки фасадов и интерьеров. Уникальный природный рисунок.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 8,
+      "name": "Травертин искусственный",
+      "category": "travertine",
+      "price": "3800",
+      "unit": "м²",
+      "description": "Искусственный травертин высокого качества. Полностью имитирует натуральный камень.",
+      "image": "https://images.unsplash.com/photo-1615971677499-5467cbab01c0?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 9,
+      "name": "Полифасад базовый",
+      "category": "polyfacade",
+      "price": "2900",
+      "unit": "м²",
+      "description": "Система полифасада для утепления и декоративной отделки фасадов зданий.",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 10,
+      "name": "Полифасад премиум",
+      "category": "polyfacade",
+      "price": "4200",
+      "unit": "м²",
+      "description": "Премиум система полифасада с расширенными декоративными возможностями.",
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 11,
+      "name": "Цементно-песчаная смесь М300",
+      "category": "other",
+      "price": "850",
+      "unit": "мешок 50кг",
+      "description": "Универсальная цементно-песчаная смесь для кладки и штукатурки. Марка М300.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 12,
+      "name": "Клей для плитки профессиональный",
+      "category": "other",
+      "price": "1200",
+      "unit": "мешок 25кг",
+      "description": "Профессиональный плиточный клей для внутренних и внешних работ. Морозостойкий.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=300&fit=crop"
+    }
+  ]
+}
