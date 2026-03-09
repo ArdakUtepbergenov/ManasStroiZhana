@@ -146,14 +146,17 @@ async function loadMaterials() {
   const grid = document.getElementById('materialsGrid');
   if (!grid) return;
 
-  const isHomePage = window.location.pathname.endsWith('index.html') ||
-                     window.location.pathname === '/' ||
-                     window.location.pathname.endsWith('/');
+  const isHomePage =
+    window.location.pathname.endsWith('index.html') ||
+    window.location.pathname === '/' ||
+    window.location.pathname.endsWith('/');
 
   try {
-
     const res = await fetch('data/materials.json?v=' + Date.now());
-    let materials = await res.json();
+    const data = await res.json();
+
+    // берем именно массив
+    let materials = data.materials;
 
     if (isHomePage) {
       materials = materials.slice(0, 6);
@@ -162,8 +165,8 @@ async function loadMaterials() {
     renderMaterials(materials, grid);
     initCatalogFilters();
 
-  } catch(e) {
-    console.error("Ошибка загрузки материалов:", e);
+  } catch (err) {
+    console.error("Ошибка загрузки материалов:", err);
   }
 }
 
