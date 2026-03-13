@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Хайтек мрамор",
       "category": "paving",
-      "price": "5500",
+      "price": "5000",
       "unit": "м²",
       "description": "Высококачественная брусчатка хайтек из мрамора. Толщина мрамора 4 см.",
       "image": "data/hitech_mramor.jpg"
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "Хайтек бесцветный",
       "category": "paving",
-      "price": "4500",
+      "price": "4000",
       "unit": "м²",
       "description": "Высококачественная бесцветная брусчатка хайтек. Толщина хайтек 4 см.",
       "image": "data/hitech_bescvet.png"
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "Тасқала мрамор",
       "category": "paving",
-      "price": "5500",
+      "price": "5000",
       "unit": "м²",
       "description": "Брусчатка Тасқала из мрамора. Толщина Тасқала мрамора 4 см.",
       "image": "data/taskala_mramor.jpg"
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "Тасқала бесцветный",
       "category": "paving",
-      "price": "4500",
+      "price": "4000",
       "unit": "м²",
       "description": "Бесцветная брусчатка Тасқала. Толщина 4 см.",
       "image": "data/taskala_bescvet.png"
@@ -40,7 +40,7 @@
       "id": 5,
       "name": "Прокурор цветной",
       "category": "paving",
-      "price": "5000",
+      "price": "4500",
       "unit": "м²",
       "description": "Высококачественная цветная брусчатка прокурор. Толщина брусчатки 4 см.",
       "image": "data/prokuror_cvet.jpg"
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "Астана бесцветный",
       "category": "paving",
-      "price": "4500",
+      "price": "4000",
       "unit": "м²",
       "description": "Высококачественная брусчатка Астана. Толщина брусчатки 4 см.",
       "image": "data/astana_bescvet.jpg"
@@ -58,7 +58,7 @@
       "id": 7,
       "name": "Астана цветной",
       "category": "paving",
-      "price": "5000",
+      "price": "4500",
       "unit": "м²",
       "description": "Высококачественная цветная брусчатка Астана. Толщина брусчатки 4 см.",
       "image": "data/astana_cvet.jpg"
@@ -85,7 +85,7 @@
       "id": 10,
       "name": "Каменный цветок мрамор",
       "category": "paving",
-      "price": "5500",
+      "price": "5000",
       "unit": "м²",
       "description": "Высококачественная каменная брусчатка цветок из мрамора. Толщина брусчатки 4 см.",
       "image": "data/camencvet_mramor.png"
@@ -94,7 +94,7 @@
       "id": 11,
       "name": "Каменный цветок цветной",
       "category": "paving",
-      "price": "5500",
+      "price": "4500",
       "unit": "м²",
       "description": "Высококачественная цветная каменная брусчатка цветок. Толщина брусчатки 4 см.",
       "image": "data/camencvet_cvet.jpg"
@@ -103,7 +103,7 @@
       "id": 12,
       "name": "Лабиринт мрамор цветной",
       "category": "paving",
-      "price": "6000",
+      "price": "5000",
       "unit": "м²",
       "description": "Цветная брусчатка лабиринт из мрамора. Толщина брусчатки 5 см.",
       "image": "data/labirint_cvet.jpg"
@@ -112,7 +112,7 @@
       "id": 13,
       "name": "Лабиринт мрамор бесцветный",
       "category": "paving",
-      "price": "6000",
+      "price": "5000",
       "unit": "м²",
       "description": "Бесцветная брусчатка лабиринт из мрамора. Толщина брусчатки 5 см.",
       "image": "data/labirint_bescvet.jpg"
@@ -121,7 +121,7 @@
       "id": 14,
       "name": "Прокурор бесцветный",
       "category": "paving",
-      "price": "4500",
+      "price": "4000",
       "unit": "м²",
       "description": "Высококачественная бесцветная брусчатка прокурор. Толщина брусчатки 4 см.",
       "image": "data/prokuror_bescvet.jpg"
