@@ -125,6 +125,24 @@
       "unit": "м²",
       "description": "Высококачественная бесцветная брусчатка прокурор. Толщина брусчатки 4 см.",
       "image": "data/prokuror_bescvet.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Прокурор",
+      "category": "paving",
+      "price": "4500",
+      "unit": "м²",
+      "description": "Высококачественная брусчатка прокурор. Толщина брусчатки 4 см.",
+      "image": "data/prokuror.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Хайтек",
+      "category": "paving",
+      "price": "5000",
+      "unit": "м²",
+      "description": "Высококачественная брусчатка хайтек. Толщина хайтек брусчатки 4 см.",
+      "image": "data/hitech.png"
     }
   ]
 }
