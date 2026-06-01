@@ -207,6 +207,24 @@
       "unit": "м²",
       "description": "Высококачественная цветная брусчатка Тасқала. Толщина брусчатки 4 см.",
       "image": "data/taskala_cvet.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Хайтек простой комбинация",
+      "category": "paving",
+      "price": "4500",
+      "unit": "м²",
+      "description": "Брусчатка Хайтек комбинация. Толщина брусчатки 4 см.",
+      "image": "data/hitech_prostoi.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Хайтек 3д",
+      "category": "paving",
+      "price": "4500",
+      "unit": "м²",
+      "description": "Высококачественная брусчатка Хайтек 3д. Толщина брусчатки 4 см.",
+      "image": "data/hitech_3d.jpeg"
     }
   ]
 }
