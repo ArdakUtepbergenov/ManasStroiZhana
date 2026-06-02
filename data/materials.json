@@ -24,8 +24,8 @@
       "category": "paving",
       "price": "5500",
       "unit": "м²",
-      "description": "Брусчатка Тасқала из мрамора. Толщина Тасқала мрамора 4 см.",
-      "image": "data/taskala_mramor.jpg"
+      "description": "Высококачественная брусчатка Тасқала из мрамора. Толщина брусчатки 4 см.",
+      "image": "data/taskala_mramor3.jpg"
     },
     {
       "id": 4,
@@ -61,7 +61,7 @@
       "price": "5000",
       "unit": "м²",
       "description": "Высококачественная цветная брусчатка Астана. Толщина брусчатки 4 см.",
-      "image": "data/astana_cvet.jpg"
+      "image": "data/astana_cvet2.jpg"
     },
     {
       "id": 8,
@@ -87,8 +87,8 @@
       "category": "paving",
       "price": "5500",
       "unit": "м²",
-      "description": "Высококачественная каменная брусчатка цветок из мрамора. Толщина брусчатки 4 см.",
-      "image": "data/camencvet_mramor.jpg"
+      "description": "Высококачественная брусчатка Каменный цветок из мрамора. Толщина брусчатки 4 см.",
+      "image": "data/camencvet_mramor.png"
     },
     {
       "id": 11,
@@ -182,15 +182,6 @@
     },
     {
       "id": 21,
-      "name": "Каменный цветок мрамор",
-      "category": "paving",
-      "price": "5500",
-      "unit": "м²",
-      "description": "Высококачественная каменная брусчатка цветок из мрамора. Толщина брусчатки 4 см.",
-      "image": "data/camencvet_mramor3.jpg"
-    },
-    {
-      "id": 22,
       "name": "Хайтек мрамор",
       "category": "paving",
       "price": "5500",
@@ -200,16 +191,16 @@
     }
     ,
     {
-      "id": 23,
+      "id": 22,
       "name": "Тасқала цветной",
       "category": "paving",
       "price": "5000",
       "unit": "м²",
       "description": "Высококачественная цветная брусчатка Тасқала. Толщина брусчатки 4 см.",
-      "image": "data/taskala_cvet.jpg"
+      "image": "data/taskala_mramor.jpg"
     },
     {
-      "id": 24,
+      "id": 23,
       "name": "Хайтек простой комбинация",
       "category": "paving",
       "price": "4500",
@@ -218,40 +209,13 @@
       "image": "data/hitech_prostoi.jpeg"
     },
     {
-      "id": 25,
+      "id": 24,
       "name": "Хайтек 3д",
       "category": "paving",
       "price": "4500",
       "unit": "м²",
       "description": "Высококачественная брусчатка Хайтек 3д. Толщина брусчатки 4 см.",
       "image": "data/hitech_3d.jpeg"
-    },
-    {
-      "id": 26,
-      "name": "Каменный цветок мрамор",
-      "category": "paving",
-      "price": "5500",
-      "unit": "м²",
-      "description": "Высококачественная брусчатка Каменный цветок из мрамора. Толщина брусчатки 4 см.",
-      "image": "data/camencvet_mramor.png"
-    },
-    {
-      "id": 27,
-      "name": "Астана цветной",
-      "category": "paving",
-      "price": "5000",
-      "unit": "м²",
-      "description": "Высококачественная цветная брусчатка Астана. Толщина брусчатки 4 см.",
-      "image": "data/astana_cvet2.jpg"
-    },
-    {
-      "id": 28,
-      "name": "Тасқала мрамор",
-      "category": "paving",
-      "price": "5500",
-      "unit": "м²",
-      "description": "Высококачественная брусчатка Тасқала из мрамора. Толщина брусчатки 4 см.",
-      "image": "data/taskala_mramor3.jpg"
     }
   ]
 }
