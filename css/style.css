@@ -249,7 +249,7 @@ p { font-size: 1rem; color: var(--text-mid); }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url('https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1600&h=900&fit=crop');
+  background-image: url('herobg.jpeg');
   background-size: cover;
   background-position: center;
   opacity: 0.18;
@@ -897,7 +897,7 @@ p { font-size: 1rem; color: var(--text-mid); }
   content: '';
   position: absolute;
   inset: 0;
-  background-image: url('https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=1200&h=600&fit=crop');
+  background-image: url('herobg.jpeg');
   background-size: cover;
   opacity: 0.08;
 }
